@@ -1,0 +1,3 @@
+INFO    2024-08-29 22:24:02,827 [main] BASE_CLASS.BASE_CLASS  - chrome driver is Excueted
+INFO    2024-08-29 22:24:06,666 [main] BASE_CLASS.BASE_CLASS  - TESTSITEURL is Excueted
+INFO    2024-08-29 22:24:06,746 [main] BASE_CLASS.BASE_CLASS  - Method 1 of Test Case 1 is Excueted

@@ -1,0 +1,13 @@
+INFO    2024-08-30 23:13:17,099 [main] BASE_CLASS.BASE_CLASS  - chrome driver is Excueted
+INFO    2024-08-30 23:13:21,346 [main] BASE_CLASS.BASE_CLASS  - TESTSITEURL is Excueted
+INFO    2024-08-30 23:13:21,392 [main] BASE_CLASS.BASE_CLASS  - Method 1 of Test Case 1 is Excueted
+INFO    2024-08-30 23:13:28,764 [main] BASE_CLASS.BASE_CLASS  - Method 1 of Test Case 1 is completed
+INFO    2024-08-30 23:13:28,931 [main] BASE_CLASS.BASE_CLASS  - Method 2 of Test Case 1 is Excueted
+INFO    2024-08-30 23:13:42,458 [main] BASE_CLASS.BASE_CLASS  - Method 2 of Test Case 1 is completed
+INFO    2024-08-30 23:13:42,644 [main] BASE_CLASS.BASE_CLASS  - Method 2 of Test Case 1 is Excueted
+INFO    2024-08-30 23:13:56,136 [main] BASE_CLASS.BASE_CLASS  - Method 2 of Test Case 1 is completed
+INFO    2024-08-30 23:13:59,656 [main] BASE_CLASS.BASE_CLASS  -  Test Case 2 is STARTED
+INFO    2024-08-30 23:14:13,081 [main] BASE_CLASS.BASE_CLASS  -  Test Case 2 is Excueted
+INFO    2024-08-30 23:14:13,271 [main] BASE_CLASS.BASE_CLASS  -  Test Case 2 is STARTED
+INFO    2024-08-30 23:14:26,704 [main] BASE_CLASS.BASE_CLASS  -  Test Case 2 is Excueted
+INFO    2024-08-30 23:14:27,214 [main] BASE_CLASS.BASE_CLASS  - close Browser is Excueted
